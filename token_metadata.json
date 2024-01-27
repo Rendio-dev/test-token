@@ -1,0 +1,9 @@
+{
+  "name": "GEMOY", 
+  "symbol": "GMOY",
+  "uri": "https://raw.githubusercontent.com/Rendio-dev/test-token/main/token_uri.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
